@@ -29,7 +29,7 @@ while True:
     
     
     
-#In this project, "WiFiname" and "WiFipassword" mean the name and password of the WiFi you are connecting right now, not the WiPy board.
+#In this project, "WiFiname" and "WiFipassword" mean the name and password of the WiFi which your computer is connecting right now, not the information of WiPy board.
 #In this case, I use the "io.adafruit.com" as the middlewire to receive the message of WiPy board. 
 #The username and AIO key can be gain in "io.adafruit.com".
 #"lights" is the name of "Feed" I established in my adafruit account. You can change it.
