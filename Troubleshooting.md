@@ -9,7 +9,9 @@
    
    1. Choose "More" on the REPL and choose "Get serial ports". Then it'll show you the name of the serial port you are using. (For me, it's COM3. In Mac it could be a totally different shape.)
    2. Choose "Settings", then select "Global settings". In this page, you need to change the information in "Device address" (Default: 192.168.4.1)to the name of serial port. (For me, it's COM3.)
+   
    Try again. If it still doesn't work, access the storage and you'll find the file "pymakr.conf". Open it and change the information "address": "192.168.4.1" to "address": "COM3".
+   
    If it still doesn't work, check if your FTDI driver works correctly. If necessary, use a serial assistant(For example: PuTTY). You can see the details in https://micropython.org/resources/docs/en/latest/wipy/wipy/tutorial/repl.html
    
    
