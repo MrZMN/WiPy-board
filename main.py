@@ -32,5 +32,6 @@ while True:
 #In this project, "WiFiname" and "WiFipassword" mean the name and password of the WiFi you are connecting right now, not the WiPy board.
 #In this case, I use the "io.adafruit.com" as the middlewire to receive the message of WiPy board. 
 #The username and AIO key can be gain in "io.adafruit.com".
+#"lights" is the name of "Feed" I established in my adafruit account. You can change it.
 #Most of the information is got from  https://www.hackster.io/bucknalla/mqtt-micropython-044e77?ref=channel&ref_id=13739_trending___&offset=1
 #I also modified some places. If I invade the authority, please tell me soon.
