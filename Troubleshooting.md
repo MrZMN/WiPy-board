@@ -24,4 +24,5 @@
    You know, there may be delays. You could refresh for some times. Besides, in your adafruit account, you could also have a look at your "Monitor". You could find the real-time information there.
    
 #These are the problems I've met. If you have any other problems, please tell me and let's work it out.
+
 #If I invade the athority, please tell me.
