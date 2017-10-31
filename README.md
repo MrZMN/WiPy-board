@@ -13,5 +13,7 @@ What I did in the whole peroid:
 9. It will run the method of MQTT library first, and after the WiPy board connects to the WiFi, it will send "Lights ON" and "Lights OFF" instructions to your adafruit account! And by simulation you can see the really light on and off in your dashboard!
 
 #This is an experiment for you to get familiar with the WiPy board and micropython. 
+
 #I established the "troubleshooting" section and put all the troubles I met there. I believe it'll help you if you are a new learner.
+
 #If I invade the authority, please tell me soon.
